@@ -1,0 +1,7 @@
+reqDomain = "0x123"
+passcode = "0x12345"
+serverHash = "0x272812d9e75c98fa2a66982adb36b921c1e7c1f5c14a4b6ff213c75745ff4113"
+domain = "0x123"
+chainId = "0x34567"
+signing_address = "0xDb1d125C9f7faE45d7CeE470d048670a85270f4D"
+proving_address = "0xDb1d125C9f7faE45d7CeE470d048670a85270f4D"
